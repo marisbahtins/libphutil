@@ -61,6 +61,8 @@ final class PhutilPygmentsSyntaxHighlighter extends Phobject {
       'bas' => 'vb.net',
       'bf' => 'brainfuck',
       'bmx' => 'blitzmax',
+      'cbl' => 'cobol',
+      'cob' => 'cobol',
       'c++' => 'cpp',
       'c++-objdump' => 'cpp-objdump',
       'cc' => 'cpp',
